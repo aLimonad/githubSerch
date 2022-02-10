@@ -1,0 +1,15 @@
+C:\Users\mudranov\source\repos\GS\GS.manager\bin\Debug\net5.0\GS.manager.deps.json
+C:\Users\mudranov\source\repos\GS\GS.manager\bin\Debug\net5.0\GS.manager.dll
+C:\Users\mudranov\source\repos\GS\GS.manager\bin\Debug\net5.0\ref\GS.manager.dll
+C:\Users\mudranov\source\repos\GS\GS.manager\bin\Debug\net5.0\GS.manager.pdb
+C:\Users\mudranov\source\repos\GS\GS.manager\bin\Debug\net5.0\GS.data.dll
+C:\Users\mudranov\source\repos\GS\GS.manager\bin\Debug\net5.0\GS.data.pdb
+C:\Users\mudranov\source\repos\GS\GS.manager\obj\Debug\net5.0\GS.manager.csproj.AssemblyReference.cache
+C:\Users\mudranov\source\repos\GS\GS.manager\obj\Debug\net5.0\GS.manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mudranov\source\repos\GS\GS.manager\obj\Debug\net5.0\GS.manager.AssemblyInfoInputs.cache
+C:\Users\mudranov\source\repos\GS\GS.manager\obj\Debug\net5.0\GS.manager.AssemblyInfo.cs
+C:\Users\mudranov\source\repos\GS\GS.manager\obj\Debug\net5.0\GS.manager.csproj.CoreCompileInputs.cache
+C:\Users\mudranov\source\repos\GS\GS.manager\obj\Debug\net5.0\GS.manager.csproj.CopyComplete
+C:\Users\mudranov\source\repos\GS\GS.manager\obj\Debug\net5.0\GS.manager.dll
+C:\Users\mudranov\source\repos\GS\GS.manager\obj\Debug\net5.0\ref\GS.manager.dll
+C:\Users\mudranov\source\repos\GS\GS.manager\obj\Debug\net5.0\GS.manager.pdb

@@ -1,0 +1,15 @@
+C:\Users\mudranov\source\repos\GS\GS.data\bin\Debug\net5.0\GS.data.deps.json
+C:\Users\mudranov\source\repos\GS\GS.data\bin\Debug\net5.0\GS.data.runtimeconfig.json
+C:\Users\mudranov\source\repos\GS\GS.data\bin\Debug\net5.0\GS.data.runtimeconfig.dev.json
+C:\Users\mudranov\source\repos\GS\GS.data\bin\Debug\net5.0\GS.data.dll
+C:\Users\mudranov\source\repos\GS\GS.data\bin\Debug\net5.0\ref\GS.data.dll
+C:\Users\mudranov\source\repos\GS\GS.data\bin\Debug\net5.0\GS.data.pdb
+C:\Users\mudranov\source\repos\GS\GS.data\obj\Debug\net5.0\GS.data.csproj.AssemblyReference.cache
+C:\Users\mudranov\source\repos\GS\GS.data\obj\Debug\net5.0\GS.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mudranov\source\repos\GS\GS.data\obj\Debug\net5.0\GS.data.AssemblyInfoInputs.cache
+C:\Users\mudranov\source\repos\GS\GS.data\obj\Debug\net5.0\GS.data.AssemblyInfo.cs
+C:\Users\mudranov\source\repos\GS\GS.data\obj\Debug\net5.0\GS.data.csproj.CoreCompileInputs.cache
+C:\Users\mudranov\source\repos\GS\GS.data\obj\Debug\net5.0\GS.data.dll
+C:\Users\mudranov\source\repos\GS\GS.data\obj\Debug\net5.0\ref\GS.data.dll
+C:\Users\mudranov\source\repos\GS\GS.data\obj\Debug\net5.0\GS.data.pdb
+C:\Users\mudranov\source\repos\GS\GS.data\obj\Debug\net5.0\GS.data.genruntimeconfig.cache

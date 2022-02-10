@@ -1,0 +1,19 @@
+﻿@model IEnumerable<GS.manager.ViewModels.Project>
+
+
+<div id="results">
+    @foreach(var item in Model)
+    {
+        <a href="@item.html_url" target="_blank">
+             <div class="card">
+                <div class = "card-body">
+                    <p>Название проекта - @item.name</p>
+                    <p>Автор - @item.owner.login + " " @item.owner.type  + " " + @item.owner.url</p>
+                    <p>Количество звезд - @item.stargazers_count</p>
+                    <p>Количество просмотров - @item.watchers_count</p>
+                </div>
+            </div>      
+        </a>
+        <br />
+    }
+</div>
